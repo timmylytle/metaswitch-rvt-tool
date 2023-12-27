@@ -5,9 +5,10 @@ This tool does not create or modify RVTs in Metaswitch Explorer
 
 
 # Run Range of Tests  
+This script will start existing RVTs.
 
 Windows:
-Double click the `rvt_run.bat` batch file 
+ - Double click the `rvt_run.bat` batch file 
 
 Linux: 
 ```
